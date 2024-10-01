@@ -5,7 +5,7 @@ import type {
   MicroCMSListContent,
 } from "microcms-js-sdk";
 
-export type Menber = {
+export type Member = {
   name: string;
   position: string;
   profile: string;
