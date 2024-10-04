@@ -26,7 +26,7 @@ export default function ContactForm() {
     <form className={styles.form} action={formAction}>
       <div className={styles.horizontal}>
         <div className={styles.item}>
-          <label className={styles.label} htmlFor="Lastname">
+          <label className={styles.label} htmlFor="lastname">
             性
           </label>
           <input
